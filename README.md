@@ -1,0 +1,1 @@
+# Declaring-multiple-function-using-C-
